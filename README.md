@@ -101,9 +101,9 @@ Scan the QR code using **Expo Go** on your mobile device or run it on an emulato
 
 **Marjan Yousafzai**
 
-GitHub: **[https://github.com/yousafzai05]**
+GitHub: **https://github.com/yousafzai05**
 
-Repository: **[https://www.linkedin.com/in/marjan-yousafzai/]**
+Repository: **https://www.linkedin.com/in/marjan-yousafzai/**
 
 ---
 
