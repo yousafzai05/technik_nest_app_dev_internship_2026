@@ -1,6 +1,6 @@
 # 📱 Assignment 1 - Technik Nest Company Profile UI
 
-This project is **Assignment 1** for the React Native internship. The objective was to recreate the provided company profile UI using **React Native** and **Expo**, while implementing interactive Like and Follow buttons.
+This project is **Assignment 1** for the App Development internship. The objective was to recreate the provided company profile UI using **React Native** and **Expo**, while implementing interactive Like and Follow buttons.
 
 ---
 
