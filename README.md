@@ -1,54 +1,112 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# 📱 Assignment 1 - Technik Nest Company Profile UI
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project is **Assignment 1** for the React Native internship. The objective was to recreate the provided company profile UI using **React Native** and **Expo**, while implementing interactive Like and Follow buttons.
 
-## Get started
+---
 
-1. Install dependencies
+## 📋 Assignment Objectives
 
-   ```bash
-   npm install
-   ```
+- Recreate the provided UI design as closely as possible.
+- Display the Technik Nest logo inside the profile picture.
+- Add a **Like** button that increases the like count by **1** on every click.
+- Add a **Follow** button that changes its text from **Follow** to **Following** when clicked.
+- Maintain the same layout, spacing, colors, typography, and overall appearance as the reference design.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Features
 
-In the output, you'll find options to open the app in a
+- Company profile card
+- Circular profile image
+- Responsive dark-themed UI
+- Dynamic Like button using React State
+- Follow/Following toggle functionality
+- Clean and reusable component structure
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Technologies Used
 
-## Get a fresh project
+- React Native
+- Expo
+- JavaScript (JSX)
+- React Hooks (`useState`)
+- Expo Vector Icons
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
+## 📂 Project Structure
+
+```text
+MyFirstApp
+│
+├── app
+│   └── index.jsx
+│
+├── assets
+│   └── images
+│       └── techniknest_logo.jpg
+│
+├── package.json
+└── app.json
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## ▶️ Installation
 
-To learn more about developing your project with Expo, look at the following resources:
+Clone the repository:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+git clone <repository-link>
+```
 
-## Join the community
+Navigate to the project folder:
 
-Join our community of developers creating universal apps.
+```bash
+cd MyFirstApp
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# technik_nest_app_dev_internship_2026
->>>>>>> 533d9d8d8e467c32a68a05e02118af7741d8d04e
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the Expo development server:
+
+```bash
+npx expo start
+```
+
+Scan the QR code using **Expo Go** on your mobile device or run it on an emulator.
+
+---
+
+## 📖 Functionality
+
+### ❤️ Like Button
+
+- Initial count is **24**.
+- Every press increases the count by **1**.
+
+### 👤 Follow Button
+
+- Initial text is **Follow**.
+- Pressing the button changes it to **Following**.
+
+---
+
+## 👨‍💻 Developer
+
+**Marjan Yousafzai**
+
+GitHub: **[https://github.com/yousafzai05]**
+
+Repository: **[https://www.linkedin.com/in/marjan-yousafzai/]**
+
+---
+
+## 📄 License
+
+This project was developed as **Assignment 1** during the React Native Internship for learning and educational purposes.
